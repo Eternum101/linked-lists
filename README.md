@@ -1,2 +1,2 @@
 # linked-lists
-An example of a Linked List in JavaScript
+An Example of a Creating a Linked List Data Structure and its Functions
