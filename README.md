@@ -1,2 +1,2 @@
 # linked-lists
-An Example of a Creating a Linked List Data Structure and its Functions
+An Example of Creating a Linked List Data Structure and its Functions
